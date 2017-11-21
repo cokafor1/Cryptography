@@ -1,4 +1,4 @@
-#define ll long long
+#include "P1Factor.h"
 
 ll gcd(ll a, ll b)
 {	if (a<0)a = -a; if (b<0)b = -b;
